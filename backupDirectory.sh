@@ -2,6 +2,7 @@
 #Backup a directory if there is a difference from the last backup.
 #You can edit the variables as needed, other than that the script takes care of the rest! This is best pared with a cron entry or cronjob.
 #Created by Quinton Brown 4-24-2020
+#Version 3.0
 
 ###Variables###
 
