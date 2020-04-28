@@ -1,2 +1,2 @@
 # Qs Share
-Beginner scripts in and bash or whatever else I feel like trying.  If you are reading this then I have shared this to you and you may use these scripts or modify them in anyway. 
+Beginner scripts in and bash or python mostly.  These will mostly be scripts I have created to learn said language and may be reinventing the wheel a little in some cases.  You may use these scripts or modify them in anyway as long it is for personal use only. 
